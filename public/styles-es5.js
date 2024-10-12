@@ -591,15 +591,15 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! G:\Projects\MEAN-To-do-list\angular-src\node_modules\bootstrap\dist\css\bootstrap.css */
+    /*! /workspaces/ToDoApp-MEANStack/angular-src/node_modules/bootstrap/dist/css/bootstrap.css */
     "./node_modules/bootstrap/dist/css/bootstrap.css");
 
     __webpack_require__(
-    /*! G:\Projects\MEAN-To-do-list\angular-src\src\styles.css */
+    /*! /workspaces/ToDoApp-MEANStack/angular-src/src/styles.css */
     "./src/styles.css");
 
     module.exports = __webpack_require__(
-    /*! G:\Projects\MEAN-To-do-list\angular-src\node_modules\ngx-toastr\toastr.css */
+    /*! /workspaces/ToDoApp-MEANStack/angular-src/node_modules/ngx-toastr/toastr.css */
     "./node_modules/ngx-toastr/toastr.css");
     /***/
   }
